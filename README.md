@@ -1,4 +1,4 @@
 ProgramlamaDilleri1
 ===================
 
-ProgramlamaDilleri1 Dersi
+ProgramlamaDilleri1 Dersi için belgeler
