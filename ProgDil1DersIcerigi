@@ -11,3 +11,25 @@ Fonksiyon Oluşturma
 Tür Dönüşümleri
 Rasgele Sayı üretimi
 Diziler
+
+
+Algoritmaya giriş, 
+akış şemaları ile problem çözme, 
+çalışma zamanı ve kompleksite kavramları, 
+sıralama algoritmaları, 
+özyineleme ve ikili ağaç gösterimleri, 
+indirgeme bağlantıları, veri yapılarında ikili arama teknikleri,
+matrisler ve matrisler üzerine işlemler. 
+Programlama dillerinde temel kavramlar: Atom, nesne, ifade, deyim, 
+bildirim, tanımlama, sabit kavramları ve uygulamaları. 
+Sayı sistemleri, fonksiyonlar, başlık dosyalarının kullanımı. 
+Faaliyet alanı ve ömür. 
+Global ve local (yerel) değişkenler. 
+Operatörler: Aritmetik, mantıksal, karşılaştırma, gösterici (Pointer), bitsel ve diğer operatörler. 
+Kontrol deyimleri (if, if/else) ve iç içe kullanımları. 
+Döngü deyimleri (while, do/while, for); 
+Sonsuz döngü kavramı ve kullanım alanları; 
+İç içe döngüler. Programlama dilinde verimlilik ve okunabilirlik. 
+Programlama dilinin standart fonksiyonları ve bu fonksiyonların oluşturulması. 
+Tür dönüşümleri. Rasgele sayı üretimi ve kullanım alanları. 
+Diziler ve dizilerle ilgili algoritmalar. Dosya işlemleri.
