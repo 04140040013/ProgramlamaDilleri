@@ -1,0 +1,10 @@
+
+İşletim sistemleri ve Masaüstü Ortamları
+Para Otomatları (ATM)
+Point-Of-Sale POS Cihazları
+Self Servis makinaları
+Bilet Otomatları
+Müze, istasyon, otogar vb yerlerdeki KIOSK cihazlar
+Real Time Operation Ssytem RTOS kullanan endüstriyel cihazlar
+Telefon ve Tabletler
+Otomobil ve Navigasyon sistemleri
