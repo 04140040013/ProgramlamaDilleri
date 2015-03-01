@@ -20,10 +20,8 @@ public class SwingMutlak extends JFrame {
 
         JButton kapa = new JButton("Kapat");
         kapa.setBounds(150, 90, 80, 35);
-
         add(tamam);
         add(kapa);
-
         setTitle("Mutlak Yerlestirme");
         setSize(300, 250);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
