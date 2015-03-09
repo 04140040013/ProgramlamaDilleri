@@ -17,5 +17,5 @@ Class için src üzerinde sağ tıkla
 New -> Other -> Swing -> Application Window -> Bir ad vererek class oluştur
 Bu class ı seç ve Design View e geç.
 
-Burdan araçlar menüsünden Layout, button, tekxt ekleme yap
+Burdan araçlar menüsünden Layout, button, text ekleme yap
 
