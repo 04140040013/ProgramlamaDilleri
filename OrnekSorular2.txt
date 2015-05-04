@@ -1,0 +1,4 @@
+1. Aşağıdaki işlemin çıktısı ne olur?
+		    int a = 3;
+        int b = 4;
+        System.out.print(a+ b + " " + 7 + 2 + " "+a+b);
