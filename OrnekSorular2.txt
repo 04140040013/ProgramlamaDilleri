@@ -2,3 +2,21 @@
 		    int a = 3;
         int b = 4;
         System.out.print(a+ b + " " + 7 + 2 + " "+a+b);
+        
+2. Aşağıda döngü ve şartlı ifade içeren bir uygulama verilmiştir. Ekran çıktısı nasıl olacaktır?
+
+	for (int i=0;i<9;i++){
+	   if (i%2==1) System.out.print(i);
+	}
+
+3. Aşağıdaki döngünün ekran çıktısı nasıldır?
+       int x = 10;
+       for (int y=0; y<5; y++, x--)
+            System.out.print(x + ", ");
+            
+4. Aşağıdaki işlemin çıktısı ne olur?
+        int x = 10;
+        for (int y=0; y<4; y++, x--)
+            System.out.print(" "+ x + y + ", ");
+            
+            
