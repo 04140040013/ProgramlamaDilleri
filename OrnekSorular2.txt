@@ -19,4 +19,15 @@
         for (int y=0; y<4; y++, x--)
             System.out.print(" "+ x + y + ", ");
             
+5. Bir fonksiyon çağırma örneği veriniz.
+
+public class Ornek2 {
+	public static void main(String[] args) {
+             System.out.println(hipotenus(3,4));
+	}
+	static public double hipotenus(double a, double b)
+	{
+	    return (Math.sqrt(a*a+b*b));
+	}
+}
             
